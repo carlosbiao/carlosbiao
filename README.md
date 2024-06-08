@@ -2,7 +2,7 @@
 
 I'm Carlos Luide Bião dos Reis, better known as **Bião** in my workplace. 
 
-I'm a mathematics professor at the Santa Cruz State University and a PhD student in computational modeling at the Polytechnic Institute of the University of Rio de Janeiro.
+I'm a mathematics professor at the Santa Cruz State University and a PhD student in computational modeling at the Polytechnic Institute of the Rio de Janeiro State University.
 
 Programming language: I'm currently learning matlab.
 
