@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+I'm Carlos Luide Bião dos Reis, better known as **Bião** in my workplace. 
+
+I'm a mathematics professor at the Santa Cruz State University and a PhD student in computational modeling at the Polytechnic Institute of the University of Rio de Janeiro.
+
+Programming language: I'm currently learning matlab.
+
+how to reach me: clbreis@uesc.br (institutional work and research email) clbreis@iprj.uerj.br (student institutional email)
+
 <!--
-**carlosbiao/carlosbiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
