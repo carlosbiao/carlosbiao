@@ -2,11 +2,11 @@
 
 I'm Carlos Luide Bião dos Reis, better known as **Bião** in my workplace. 
 
-I'm a mathematics professor at the Santa Cruz State University and a DSc student in computational modeling at the Polytechnic Institute of the Rio de Janeiro State University.
+I'm a mathematics professor at the Santa Cruz State University and a D.Sc. student in computational modeling at the Polytechnic Institute of the Rio de Janeiro State University.
 
 My current research is related to **3D reconstruction and occluding contours**.
 
-Programming language: I'm currently learning **matlab**.
+Programming language: I'm currently learning **matlab**, **c++** and **python**.
 
 how to reach me: clbreis@uesc.br (institutional work and research email) clbreis@iprj.uerj.br (student institutional email)
 
